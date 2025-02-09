@@ -16,3 +16,8 @@ Then clone this repository to `/config/zha_quirks`:
 mkdir /config/zha_quirks
 git clone https://github.com/hbahadorzadeh/ha-quirks.git .
 ```
+Supported devices:
+- [Tuya TS0601_thermostat](https://nl.aliexpress.com/item/1005005145690732.html?spm=a2g0o.order_list.order_list_main.44.5bf679d2M10QUN&gatewayAdapt=glo2nld)
+  - _TZE200_bvu2wnxz
+  - _TZE200_6rdj8dzm
+  - _TZE200_hvaxb2tc
