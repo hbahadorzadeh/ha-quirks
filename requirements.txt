@@ -1,0 +1,2 @@
+zigpy
+zha-quirks
